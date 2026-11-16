@@ -1,0 +1,6 @@
+{
+  "name": "ASSESSMENT PRO AI by I'mLibrary",
+  "description": "Solusi cerdas penyusunan kisi-kisi, butir soal LOTS/MOTS/HOTS, kunci jawaban, pembahasan, rubrik penilaian, dan validasi kualitas asesmen berstandar nasional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
